@@ -1,1 +1,1 @@
-1. Take a few Git lessons
+1. Go through several Git topics
